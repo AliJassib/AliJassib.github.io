@@ -98,7 +98,6 @@ I'm a **Mobile Application Developer** specializing in **Flutter** development. 
 #### [Structure](https://github.com/AliJassib/structure)
 📱 My Flutter project structure template
 - Flutter • Dart • Clean Architecture
-- ⭐ 4 stars
 
 #### [Face Detected](https://github.com/AliJassib/face_detected)
 📱 Face detection Flutter package
@@ -109,13 +108,6 @@ I'm a **Mobile Application Developer** specializing in **Flutter** development. 
 📦 Face detection package for Flutter
 - Flutter Package • Dart • Face Recognition
 
-#### [Omra App](https://github.com/AliJassib/omra)
-🕋 Umrah by Proxy mobile application
-- Flutter • Firebase • BLoC • AutoRoute • Sentry
-- Multi-language support (Arabic/English)
-- Video recording & processing
-- Location tracking
-- Real-time notifications
 
 <div dir="rtl">
 
@@ -132,33 +124,23 @@ I'm a **Mobile Application Developer** specializing in **Flutter** development. 
 #### [Face Detected Pub Dev](https://github.com/AliJassib/face_detected_pub_dev)
 📦 حزمة كشف الوجوه لـ Flutter
 - Flutter Package • Dart • Face Recognition
-
-#### [Omra App](https://github.com/AliJassib/omra)
-🕋 تطبيق العمرة بالنيابة
-- Flutter • Firebase • BLoC • AutoRoute • Sentry
-- دعم متعدد اللغات (عربي/إنجليزي)
-- تسجيل ومعالجة الفيديو
-- تتبع الموقع
-- إشعارات فورية
-
+- 
 </div>
 
 ## 🎯 Skills - المهارات
 
 ### Programming Languages
 - **Dart** - Expert ⭐⭐⭐⭐⭐
-- **Python** - Intermediate ⭐⭐⭐
-- **JavaScript** - Beginner ⭐⭐
 
 ### Mobile Development
 - **Flutter** - Expert ⭐⭐⭐⭐⭐
-- **Android Native** - Intermediate ⭐⭐⭐
+- **Android Native** - Beginner ⭐⭐
 - **iOS Native** - Beginner ⭐⭐
 
 ### State Management
 - **BLoC/Cubit** - Expert ⭐⭐⭐⭐⭐
 - **Provider** - Advanced ⭐⭐⭐⭐
-- **GetX** - Intermediate ⭐⭐⭐
+- **GetX** - Expert ⭐⭐⭐⭐⭐
 
 ### Backend & Services
 - **Firebase** - Expert ⭐⭐⭐⭐⭐
@@ -181,39 +163,7 @@ I'm a **Mobile Application Developer** specializing in **Flutter** development. 
 - **Video Processing** - Intermediate ⭐⭐⭐
 - **Location Services** - Advanced ⭐⭐⭐⭐
 
-<div dir="rtl">
 
-### لغات البرمجة
-- **Dart** - خبير ⭐⭐⭐⭐⭐
-- **Python** - متوسط ⭐⭐⭐
-- **JavaScript** - مبتدئ ⭐⭐
-
-### تطوير التطبيقات
-- **Flutter** - خبير ⭐⭐⭐⭐⭐
-- **Android Native** - متوسط ⭐⭐⭐
-- **iOS Native** - مبتدئ ⭐⭐
-
-### إدارة الحالة
-- **BLoC/Cubit** - خبير ⭐⭐⭐⭐⭐
-- **Provider** - متقدم ⭐⭐⭐⭐
-- **GetX** - متوسط ⭐⭐⭐
-
-### Backend والخدمات
-- **Firebase** - خبير ⭐⭐⭐⭐⭐
-  - Authentication
-  - Cloud Messaging
-  - Cloud Functions
-  - Analytics
-- **REST APIs** - متقدم ⭐⭐⭐⭐
-- **Dio/Retrofit** - متقدم ⭐⭐⭐⭐
-
-### المعمارية والأنماط
-- **Clean Architecture** - خبير ⭐⭐⭐⭐⭐
-- **Feature-based Architecture** - خبير ⭐⭐⭐⭐⭐
-- **Repository Pattern** - خبير ⭐⭐⭐⭐⭐
-- **Dependency Injection** - متقدم ⭐⭐⭐⭐
-
-</div>
 
 ## 📚 Currently Learning - أتعلم حالياً
 
@@ -223,25 +173,10 @@ I'm a **Mobile Application Developer** specializing in **Flutter** development. 
 - 🎓 CI/CD Pipeline Setup
 - 🎓 Microservices Architecture
 
-<div dir="rtl">
-
-- 🎓 تحسين أداء Flutter المتقدم
-- 🎓 مبادئ Clean Code و SOLID
-- 🎓 Design Patterns المتقدمة
-- 🎓 إعداد CI/CD Pipeline
-- 🎓 معمارية Microservices
-
-</div>
-
 ## 🎖️ Achievements - الإنجازات
 
 - 🏅 **Arctic Code Vault Contributor** - Contributed to open source projects preserved in the GitHub Arctic Code Vault
 
-<div dir="rtl">
-
-- 🏅 **مساهم في Arctic Code Vault** - ساهمت في مشاريع مفتوحة المصدر محفوظة في GitHub Arctic Code Vault
-
-</div>
 
 ## 🤝 Connect with Me - تواصل معي
 
